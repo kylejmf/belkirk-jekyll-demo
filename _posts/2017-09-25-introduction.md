@@ -9,7 +9,8 @@ tags:
 - Demo
 - Forestry
 layout: post
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge.jpg"
+
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
