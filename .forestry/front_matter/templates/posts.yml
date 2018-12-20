@@ -8,3 +8,10 @@ fields:
   type: text
   hidden: false
   default: post
+- type: color
+  name: color_picker
+  config:
+    color_format: Hex
+  label: Color Picker
+  description: Pick your color!
+  default: "#BF4D4D"
