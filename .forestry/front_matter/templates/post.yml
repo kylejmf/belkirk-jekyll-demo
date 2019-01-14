@@ -44,4 +44,4 @@ fields:
   name: alpha
   default: false
 pages:
-- _posts/this-is-a-test-post.md
+- _posts/2019-01-13-this-is-a-test-post.md
