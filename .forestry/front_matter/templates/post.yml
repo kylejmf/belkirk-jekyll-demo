@@ -39,3 +39,7 @@ fields:
   type: text
   hidden: true
   default: post
+- type: boolean
+  label: Alpha
+  name: alpha
+  default: false
