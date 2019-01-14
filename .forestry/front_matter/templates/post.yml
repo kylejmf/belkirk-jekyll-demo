@@ -43,3 +43,5 @@ fields:
   label: Alpha
   name: alpha
   default: false
+pages:
+- _posts/this-is-a-test-post.md
